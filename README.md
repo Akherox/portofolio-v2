@@ -28,7 +28,7 @@ Nova versão do meu portofolio.
 ### Links
 
 - Codigo na web URL: [GitHub](https://github.com/Akherox/portofolio-v2)
-- Site ao vivo URL: [GitHub Pages](https://akherox.github.io/portofolio-v2/)
+- Site ao vivo URL: [Vercel Pages](https://portfolio-v2-rouge-seven.vercel.app/#home)
 
 ## Meu processo
 
